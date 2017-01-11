@@ -1,2 +1,2 @@
-# JavaHomework
-The source code for my homeworks
+# JavaCode
+The source code for my java practice
